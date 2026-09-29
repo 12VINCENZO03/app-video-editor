@@ -1,0 +1,6 @@
+{
+  "name": "AI Video Editor - Semi-Autonomo",
+  "description": "AI-assisted semi-autonomous video editor with non-destructive virtual timeline and smart approval center.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
